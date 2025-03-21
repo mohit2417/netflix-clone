@@ -4,7 +4,10 @@ GitHub repo size
 ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 ![image](https://github.com/user-attachments/assets/d98d0079-86f9-448c-8962-73f2398aac91)
 
-🔧 Backend
+🔧 Backend![image](https://github.com/user-attachments/assets/315da2b2-8fc8-43b9-a982-2ef344472b2b)
+![image](https://github.com/user-attachments/assets/a4675787-8555-4431-bf49-fde7d6d387bc)
+![Uploading image.png…]()
+
 🗄️ MongoDB Setup
 🔐 Authentication with JWT
 🔄 Forgot & Reset Password
